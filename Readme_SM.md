@@ -6,7 +6,7 @@ Implementation steps:
 
 1- The code called "preprocess_SM.ipynb" cleans and shrinks the dataset.
 
-2- The code called "preprocess_dictionary_SM.py" creates the dictionary of topples. The reason behind creating dictionary is to look up values similar to SQL instead of looping through the matrix each time,  which significantly reduces the computational time.
+2- The code called "preprocess_dictionary_SM.py" creates the dictionary of topples to lookup the rating in an efficient way.
 
 3- The code called "itembased_SM.ipynb" performs the item-item collaborative filtering.
 
