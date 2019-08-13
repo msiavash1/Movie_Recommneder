@@ -1,6 +1,6 @@
 # Movie Recommender 
 
-The goal of this project is to build a movie recommender system using the MovieLens 20 Million dataSet available on Kaggle (https://www.kaggle.com/grouplens/movielens-20m-dataset)
+The goal of this project is to build a movie recommender system using the MovieLens 27 Million dataSet available on Kaggle (https://grouplens.org/datasets/movielens/) 
 
 Implementation steps:
 
@@ -12,4 +12,4 @@ Implementation steps:
 
 4- The code called "userbased_SM.py" performs the user-user collaborative filtering. Note that the Jupiter notebook of this code is also uploaded to show the mean square error of this method.
 
-5- The code called "mf_SM.py" performs matrix factorisation (PCA) to predict the movie rating.
+5- The code called "MF_SM.py" performs matrix factorisation (PCA) to predict the movie rating.
