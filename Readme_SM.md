@@ -8,7 +8,7 @@ Implementation steps:
 
 2- The code called "preprocess_dictionary_SM.py" creates the dictionary of topples. The reason behind creating dictionary is to look up values similar to SQL instead of looping through the matrix each time,  which significantly reduces the computational time.
 
-3- The code called "itembased_SM.py" performs the item-item collaborative filtering.
+3- The code called "itembased_SM.ipynb" performs the item-item collaborative filtering.
 
 4- The code called "userbased_SM.ipynb" performs the user-user collaborative filtering. 
 
